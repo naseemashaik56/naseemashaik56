@@ -8,5 +8,5 @@
 - How To reach me : **sknaseema8122@gmail.com**.
 
 ### Projects
-#### 1. Employee Management (https://github.com/naseemashaik56/
+#### 1. Employee Management (https://github.com/naseemashaik56/Employee-Management
 #### 2. Order Management (https://github.com/naseemashaik56/
